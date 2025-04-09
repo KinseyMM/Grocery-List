@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(85, 14, 218);
+    text-align: center;
+    text-decoration: underline;
+  }
+
+  
+  section h2 {
+    background-color: rgb(221, 245, 143);
+    text-transform: uppercase;
+    border: 2px solid rgb(102, 120, 3);
+    width: 425px;
+  }
+  
+  section div {
+    background-color: rgb(243, 248, 117);
+    color: rgb(146, 133, 11);
+  
+    
+    display: inline-block;
+    
+    height: 150px;
+    width: 200px;
+    padding-right: 10px;
+  }
+  
+  
